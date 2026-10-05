@@ -1,0 +1,8 @@
+C:\Users\stud\Desktop\diskret\diskret\bin\Debug\diskret.exe.config
+C:\Users\stud\Desktop\diskret\diskret\bin\Debug\diskret.exe
+C:\Users\stud\Desktop\diskret\diskret\bin\Debug\diskret.pdb
+C:\Users\stud\Desktop\diskret\diskret\obj\Debug\diskret.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\diskret\diskret\obj\Debug\diskret.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\diskret\diskret\obj\Debug\diskret.exe
+C:\Users\stud\Desktop\diskret\diskret\obj\Debug\diskret.pdb
+C:\Users\stud\Desktop\diskret\diskret\obj\Debug\diskret.exe.config
